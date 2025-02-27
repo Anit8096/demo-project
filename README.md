@@ -1,4 +1,6 @@
 # demo-project
- ## Description 
- - Created for learning GitHub collaboration.
- - Includes a simple README file.
+- This is a demo repository for testing collaboration and GitHub workflows.
+
+## Description 
+- Created for learning GitHub collaboration.
+- Includes a simple README file.
